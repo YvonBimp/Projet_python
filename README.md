@@ -1,6 +1,8 @@
 # Projet_python
 different programme python
 
+
+
 1- convertiseur US-CA , un programme Python qui :
 •	calcule le montant total des ventes en USD d’un article donné,
 •	convertit ce montant en CAD,
