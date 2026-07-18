@@ -11,7 +11,7 @@ differents programmes python
 
 2- GÉnérateur de mot de passe : 
 
-le programme emande le nom (minimum 3 lettres),un prénom (minimum de 2 lettres) et l’année de naissance (entier à 4 chiffres). Ensuite, le programme crée un nom d’utilisateur et un mot de passe utilisateur au format ci=dessous  :  
+le programme demande le nom (minimum 3 lettres),un prénom (minimum de 2 lettres) et l’année de naissance (entier à 4 chiffres). Ensuite, le programme crée un nom d’utilisateur et un mot de passe utilisateur au format ci=dessous  :  
  
 •	Nom utilisateur : ecomposé du nom en majuscules suivi de la touche tiret-bas _ , de la première lettre du prénom en minuscule, puis l’année de naissance
 •	Mot de passe : est la concaténation de deux premières lettres du prénom en majuscules, trois dernières lettres de nom en minuscules suivi des deux derniers chiffres de l’année de naissance.  
